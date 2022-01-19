@@ -15,7 +15,6 @@ I'm currently looking at and learning about the charmbracelet suite of apps and 
 
 # Get in Touch
 <ul>
-<li>
-<a href="https://twiter.com/{{site.twitter_username}}">Twitter</a></li>
-<a href="https://github.com.com/{{site.github_username}}">GitHub</a></li>
+<li><a href="https://twiter.com/{{site.twitter_username}}">Twitter</a></li>
+<li><a href="https://github.com.com/{{site.github_username}}">GitHub</a></li>
 </ul>
