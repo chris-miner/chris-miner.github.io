@@ -1,5 +1,3 @@
-# Chris's Website
-
 # Background
 I started out in software development writing NeXTStep apps.  Then transitioned to WebObjects development for several years.  Shortly before taking a break from the software industry, I contributed to an opensource content management system called Magnolia.  Somewhere in all time that I worked for MusicMobs to develop a playlist sharing site with associated client software.
 
